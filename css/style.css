@@ -1,0 +1,48 @@
+/*color airbnb*/
+.color{
+	color: fd5c63;
+}
+
+/*scroll*/
+#scroll{
+	overflow: scroll;
+	overflow-x: hidden;
+}
+
+/*imagenes de habitaciones*/
+
+
+/*rango de precios*/
+
+
+
+/*mapa*/
+iframe{
+	width: 100%;
+	height: 650px;
+	position: fixed;
+}
+
+/*footer
+footer{
+	background-color: black;
+	color: white;
+}
+select{
+	display: block;
+	margin: 5% 0% 0% 15%;
+	position: relative;
+	border: 1px solid #ccc;
+	width: 70%;
+	overflow: hidden;
+	background-color: black;
+	padding: 2%;
+}
+a{
+	color: white;
+}
+a:hover{
+	color:#A2A0A0;
+	text-decoration: none;
+}
+*/
